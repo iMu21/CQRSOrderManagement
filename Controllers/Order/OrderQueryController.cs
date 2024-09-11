@@ -1,5 +1,5 @@
 ﻿using CQRSOrderManagement.Interfaces.Dispatchers;
-using CQRSOrderManagement.Models;
+using CQRSOrderManagement.Models.Order.Query;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CQRSOrderManagement.Controllers.Order

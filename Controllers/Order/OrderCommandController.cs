@@ -1,5 +1,5 @@
 ﻿using CQRSOrderManagement.Interfaces.Dispatchers;
-using CQRSOrderManagement.Models;
+using CQRSOrderManagement.Models.Order.Command;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 

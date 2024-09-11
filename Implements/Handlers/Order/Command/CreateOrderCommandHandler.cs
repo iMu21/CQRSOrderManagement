@@ -1,5 +1,5 @@
 ﻿using CQRSOrderManagement.Interfaces.Handlers;
-using CQRSOrderManagement.Models;
+using CQRSOrderManagement.Models.Order.Command;
 
 namespace CQRSOrderManagement.Services.Handlers.Order.Command
 {

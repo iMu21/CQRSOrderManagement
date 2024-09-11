@@ -1,4 +1,4 @@
-﻿namespace CQRSOrderManagement.Models
+﻿namespace CQRSOrderManagement.Models.Order.Query
 {
     public class OrderQuery
     {
